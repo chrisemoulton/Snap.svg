@@ -9,7 +9,7 @@
   "author": "CJ Gammon",
   "license": "Apache License v2",
   "devDependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "~1.6.1",
     "grunt-contrib-copy": "*",
     "grunt-contrib-compass": "*",
     "grunt-contrib-requirejs": "*",
